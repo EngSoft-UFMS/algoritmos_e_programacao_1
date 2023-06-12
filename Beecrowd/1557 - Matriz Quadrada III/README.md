@@ -14,31 +14,8 @@ Para cada inteiro da entrada imprima a matriz correspondente, de acordo com o ex
 
 ## Exemplos de entrada
 
-1
-2
-3
-4
-5
-0
+![image](https://github.com/EngSoft-UFMS/algortimos_e_programacao_1/assets/127237352/6a2d5171-2596-479c-958f-ab0c6fae7c94)
 
 ## Exemplos de saída
 
-1
-
-1 2
-2 4
-
- 1  2  4
- 2  4  8
- 4  8 16
-
- 1  2  4  8
- 2  4  8 16
- 4  8 16 32
- 8 16 32 64
-
-  1   2   4   8  16
-  2   4   8  16  32
-  4   8  16  32  64
-  8  16  32  64 128
- 16  32  64 128 256
+![image](https://github.com/EngSoft-UFMS/algortimos_e_programacao_1/assets/127237352/ddcf9b5a-75ba-4276-9783-ae64dab49df9)
