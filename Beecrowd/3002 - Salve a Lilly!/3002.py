@@ -9,5 +9,4 @@ def calcular_total_impostos(n):
 
     # Calcula o total mínimo de impostos
     total_impostos = n // maior_divisor
-
     return total_impostos
