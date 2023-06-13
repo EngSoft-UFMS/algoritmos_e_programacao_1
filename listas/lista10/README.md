@@ -1,4 +1,4 @@
-#Para o envio dessa lista, é necessário que a resolução de todos os exercícios seja feita através de um único arquivo.py contendo todas as resoluções e um breve comentário separando cada exercício.
+#Para o envio dessa lista, é necessário que o envio da resolução de todos os exercícios seja feita através de um único arquivo.py contendo todas as resoluções e um breve comentário separando cada exercício.
 
 Exercício 1-
 Escreva um programa para ler uma lista com tam elementos usando um fluxo, após a leitura da lista, leia um número inteiro e uma posição i <= tam e insira o número lido na posição i da lista e imprima a lista resultante.
