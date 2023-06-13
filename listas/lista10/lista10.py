@@ -46,4 +46,13 @@ for i in range(len(prodalcool)):
 
 print(f'{somasemana:.2f}')
 
+# Resolução do exercício 5
 
+numeros = list(map(int, input().split()))
+menor = 10
+
+for i in range(len(numeros)):
+    if numeros[i] < menor:
+        menor = numeros[i]
+
+print(menor)
