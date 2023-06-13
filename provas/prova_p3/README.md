@@ -12,25 +12,7 @@ A entrada é dada por um fluxo de quatro linhas. A primeira linha contém um int
 linha contém uma lista de inteiros representando os itens desse depósito. A terceira linha contém um inteiro representando a quantidade de itens do depósito de
 Ponta Porã e a quarta linha contém uma lista de inteiro representando do itens desse depósito. No caso da interseção ser vazia, imprima a lista vazia [].
 
-### Exemplo 1
-
-## formato da entrada
-10
-101 103 110 201 225 267 854 876 910 911
-12
-101 105 110 117 202 224 267 854 877 901 902 911
-
-## formato da saída
-[101, 103, 110, 201, 225, 267, 854, 876, 910, 911, 105, 117, 202, 224, 877, 901, 902]
-### Exemplo 2
-
-## formato da entrada
-0
-
-0
-
-## formato da saída
-[]
+![image](https://github.com/EngSoft-UFMS/algoritmos_e_programacao_1/assets/127705012/71076841-17df-4e8a-bb71-02de852f14e7)
 
 
 
@@ -60,33 +42,8 @@ A entrada é dada por um bloco de linhas. A primeira linha contêm dois números
 números cada. As primeiras m linhas representam as linhas da matriz a e as m últimas linhas representam as linhas da matriz b. A saída consiste em imprimir 
 uma lista de listas representado a matriz soma c do par de matrizes da entrada.
 
-### Exemplo 
+![image](https://github.com/EngSoft-UFMS/algoritmos_e_programacao_1/assets/127705012/af902550-0bbc-416a-acfa-e74eddb1c919)
 
-## formato da entrada
-3 2
-0 6
--1 2
-5 0
-0 -6
-1 -2
--5 0
-
-## formato da saída
-[0, 0] 
-[0, 0] 
-[0, 0]
-Exemplo 2
-
-## formato da entrada
-2 2
-3 -2
--2 5
--2 2
-2 -4
-
-## formato da saída
-[1, 0] 
-[0, 1]
 
 # exercicio 3
 
@@ -103,21 +60,9 @@ médias em cada um dos locais:
 print( ' {e:d} {1:5.1f} ' . format(local+l, tempMed[local]))
 
 Observação: Os comentários (#) não fazem parte da entrada
-## Exemplo 
-### formato da entrada
-25.5 28.7 22.2 # matriz das temperaturas
-28.8 28.9 24.5
-3e.4 29.4 26.3
-28.5 29.1 25.8
-### formato da saída
-1
-28.3
-2
-29.e
-3
-24.7
 
 
+![image](https://github.com/EngSoft-UFMS/algoritmos_e_programacao_1/assets/127705012/5f818bd8-03bb-4e0e-82d7-6afa28f67274)
 
 
 
