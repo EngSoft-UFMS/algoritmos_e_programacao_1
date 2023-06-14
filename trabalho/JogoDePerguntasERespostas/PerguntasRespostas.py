@@ -72,5 +72,16 @@ def jogar():
     print('Bem-vindo ao jogo de perguntas e respostas!')
     print('Responda corretamente o maior número de perguntas para ganhar pontos.')
 
+    for pergunta in perguntas:
+        resposta = fazer_pergunta(pergunta)
+        if verificar_resposta(pergunta, resposta):
+            pontos += 1
+            print('Resposta correta!\n')
+        else:
+            print(f'Resposta incorreta! A resposta correta era: {pergunta["resposta"]}\n')
+
+    print(f'Fim de jogo! Você marcou {pontos} pontos de um total de {len(perguntas)}.')
+    
+jogar()
 menu()
 
