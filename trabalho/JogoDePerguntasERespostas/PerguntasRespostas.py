@@ -88,12 +88,12 @@ def menu()-> int:
 
 def categoria()-> int:
     print("Escolha a categoria que você deseja responder:")
-    print("1- Artes")
-    print("2- Esportes")
-    print("3- Entreterimento")
-    print("4- Ciência")
+    print("1- Esportes")
+    print("2- Geografia")
+    print("3- Ciência")
+    print("4- Entreterimento")
     print("5- História")
-    print("6- Geografia")
+    print("6- Artes")
     print("7- Sair")
     opcao = int(input())
     return opcao
