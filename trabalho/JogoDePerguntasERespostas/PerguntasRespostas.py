@@ -86,18 +86,6 @@ def menu()-> int:
     numero = int(input())
     return numero
 
-def categoria()-> int:
-    print("Escolha a categoria que você deseja responder:")
-    print("1- Artes")
-    print("2- Esportes")
-    print("3- Entreterimento")
-    print("4- Ciência")
-    print("5- História")
-    print("6- Geografia")
-    print("7- Sair")
-    opcao = int(input())
-    return opcao
-
 def verificar_resposta(pergunta, resposta):
     return pergunta['opcoes'][int(resposta) - 1] == pergunta['resposta']
 
