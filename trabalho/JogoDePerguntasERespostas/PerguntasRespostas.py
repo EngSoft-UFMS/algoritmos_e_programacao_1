@@ -3,9 +3,9 @@
 def retornar_perguntas():
     perguntas = [
         {
-            'pergunta': 'Qual é a capital da França?',
+            'pergunta': 'Qual é a capital da Espanha?',
             'opcoes': ['Paris', 'Londres', 'Roma', 'Madri'],
-            'resposta': 'Paris'
+            'resposta': 'Madri'
             'categoria' : 'Geografia'
         },
         {
