@@ -30,12 +30,12 @@ def retornar_perguntas():
         {
             'pergunta': 'Qual é a capital do Mato Grosso do Sul?',
             'opcoes': ['Campo Grande', 'São Paulo', 'Rio de Janeiro', 'Três Lagos'],
-            'resposta': 'CG'
+            'resposta': 'Campo Grande'
         }
         {
             'pergunta': 'Qual é a capital do Brasil?',
             'opcoes': ['Rio de Janeiro', 'Salvador', 'São Paulo', 'Brasília'],
-            'resposta': 'brasilia'
+            'resposta': 'Brasília'
         }
     ]
     return perguntas
