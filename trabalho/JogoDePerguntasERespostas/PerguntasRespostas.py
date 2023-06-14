@@ -90,6 +90,11 @@ def retornar_perguntas():
             'pergunta': 'Quem criou o modelo atômico conhecido como "Pudim de passas"?',
             'opcoes': ['Dalton', 'Rutherford', 'Bohr', 'Thomson'],
             'resposta': 'Thomson'
+        },
+        {
+            'pergunta': 'Qual é o menor osso do corpo humano?',
+            'opcoes': ['Tíbia', 'Esterno', 'Rádio', 'Estribo'],
+            'resposta': 'Estribo'
             'categoria' : 'Ciências'
         }
     ]
