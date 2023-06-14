@@ -80,12 +80,12 @@ def retornar_perguntas():
 # Função para mostrar as opções de resposta e retornar a resposta do usuário
 def categoria()-> int:
     print("Escolha a categoria que você deseja responder:")
-    print("1- Esportes")
-    print("2- Geografia")
-    print("3- Ciência")
-    print("4- Entreterimento")
-    print("5- História")
-    print("6- Artes")
+    print("1- Geografia")
+    print("2- Artes")
+    print("3- História")
+    print("4- Ciência")
+    print("5- Esportes")
+    print("6- Entretenimento")
     print("7- Sair")
     opcao = int(input())
     return opcao
