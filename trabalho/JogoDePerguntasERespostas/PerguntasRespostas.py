@@ -76,7 +76,7 @@ def retornar_perguntas():
         }
     ]
     return perguntas
- 
+
 # Função para mostrar as opções de resposta e retornar a resposta do usuário
 def categoria()-> int:
     print("Escolha a categoria que você deseja responder:")
@@ -89,7 +89,7 @@ def categoria()-> int:
     print("7- Sair")
     opcao = int(input())
     return opcao
-
+    
 def fazer_pergunta(pergunta):
     print(pergunta['pergunta'])
     for i, opcao in enumerate(pergunta['opcoes']):
