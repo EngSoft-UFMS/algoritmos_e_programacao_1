@@ -1,0 +1,5 @@
+Objetivo do trabalho: Implementar um jogo de perguntas e respostas, onde uma lista de perguntas é carregada, e o jogador deve responder corretamente o maior número de perguntas possível. Cada pergunta possui um conjunto de opções, e o jogador deve digitar o número da opção correta. No final do jogo, é exibida a pontuação obtida pelo jogador.
+As perguntas podem ser relacionadas a assuntos de diversas áreas de conhecimento, incluindo geografia , artes , história, ciências , entretenimento, esportes. Desde que sejam relacionadas a essas áreas, os alunos podem dispor da criatividade para as compor, não havendo um limite para o máximo de perguntas, mas que minimamente existam 3 perguntas de áreas diferentes. Leve em consideração que, quanto mais perguntas houverem, mais divertido será o jogo!
+
+![Bem-vindo ao jogo de perguntas e respostas! Responda corretamente o maior número de perguntas para ganhar pontos](https://github.com/EngSoft-UFMS/algoritmos_e_programacao_1/assets/127704416/dfb2953f-d4e9-4f5a-a59f-d528be72cf57)
+
