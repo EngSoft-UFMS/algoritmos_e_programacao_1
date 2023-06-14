@@ -51,7 +51,16 @@ def fazer_pergunta(pergunta):
     return resposta
 
 # Função para verificar se a resposta do usuário é correta
+def menu()-> int:
+    print("Bem-Vindo ao jogo de Perguntas e respostas")
+    print("Escolha um modo de jogo:")
+    print("1- Fácil")
+    print("2- Médio")
+    print("3- Difícil")
+    numero = int(input())
+    return numero
 
 def verificar_resposta(pergunta, resposta):
     return pergunta['opcoes'][int(resposta) - 1] == pergunta['resposta']
 
+menu()
