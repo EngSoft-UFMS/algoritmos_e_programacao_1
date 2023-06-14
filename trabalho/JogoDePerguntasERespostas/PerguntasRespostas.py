@@ -51,12 +51,12 @@ def retornar_perguntas():
             'pergunta': 'Quem é o autor de Abaporu?',
             'opcoes': ['Tarsila do Amaral', 'Candido Portinari', 'Anita Malfatti', 'Vicente do Rego'],
             'resposta': 'Tarsila do Amaral'
-        }
+        },
         {
             'pergunta': 'Quem pintou a obra O Grito?',
             'opcoes': ['Michelangelo', 'Leonardo Da Vinci', 'Pablo Picasso', 'Edvard Munch'],
             'resposta': 'Edvard Munch'
-        }
+        },
         {
             'pergunta': 'Qual artista considerado o pai do Cubismo?',
             'opcoes': ['Pablo Picasso', 'Vincent van Gogh', 'Tarsila do Amaral', 'Vicente do Rego Monteiro'],
@@ -107,7 +107,7 @@ def jogar():
         pass
     
 
-    perguntas = carregar_perguntas()
+    perguntas = retornar_perguntas()
     pontos = 0
 
     print('Bem-vindo ao jogo de perguntas e respostas!')
