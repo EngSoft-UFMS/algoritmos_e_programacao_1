@@ -106,6 +106,7 @@ def jogar():
     elif cont == 4:
         pass
     
+
     perguntas = carregar_perguntas()
     pontos = 0
 
@@ -122,4 +123,5 @@ def jogar():
 
     print(f'Fim de jogo! Você marcou {pontos} pontos de um total de {len(perguntas)}.')
     
+
 jogar()
