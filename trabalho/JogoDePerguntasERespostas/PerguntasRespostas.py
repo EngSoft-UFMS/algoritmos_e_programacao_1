@@ -49,3 +49,9 @@ def fazer_pergunta(pergunta):
 
     resposta = input('Digite o número da opção correta: ')
     return resposta
+
+# Função para verificar se a resposta do usuário é correta
+
+def verificar_resposta(pergunta, resposta):
+    return pergunta['opcoes'][int(resposta) - 1] == pergunta['resposta']
+
