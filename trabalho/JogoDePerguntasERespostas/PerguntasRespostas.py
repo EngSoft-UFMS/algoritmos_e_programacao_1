@@ -39,6 +39,12 @@ def retornar_perguntas():
             'categoria' : 'Geografia'
         },
         {
+            'pergunta': 'Qual é a capital do Japão?',
+            'opcoes': ['Ottawa', 'Tokyo', 'Montreal', 'Vancouver'],
+            'resposta': 'Tokyo'
+            'categoria' : 'Geografia'
+        },
+        {
             'pergunta': 'Qual é a capital do Mato Grosso do Sul?',
             'opcoes': ['Campo Grande', 'São Paulo', 'Rio de Janeiro', 'Três Lagos'],
             'resposta': 'Campo Grande'
@@ -79,6 +85,12 @@ def retornar_perguntas():
             'opcoes': ['Pablo Picasso', 'Vincent van Gogh', 'Tarsila do Amaral', 'Vicente do Rego Monteiro'],
             'resposta': 'Pablo Picasso'
             'categoria' : 'Artes'
+        },
+        {
+            'pergunta': 'Qual é o maior osso do corpo humano?',
+            'opcoes': ['Tíbia', 'Esterno', 'Rádio', 'Fêmur'],
+            'resposta': 'Fêmur'
+            'categoria' : 'Ciências'
         }
     ]
     return perguntas
