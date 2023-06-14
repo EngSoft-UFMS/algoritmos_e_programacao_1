@@ -87,9 +87,9 @@ def retornar_perguntas():
             'categoria' : 'Artes'
         },
         {
-            'pergunta': 'Qual é o maior osso do corpo humano?',
-            'opcoes': ['Tíbia', 'Esterno', 'Rádio', 'Fêmur'],
-            'resposta': 'Fêmur'
+            'pergunta': 'Qual é o menor osso do corpo humano?',
+            'opcoes': ['Tíbia', 'Esterno', 'Rádio', 'Estribo'],
+            'resposta': 'Estribo'
             'categoria' : 'Ciências'
         }
     ]
