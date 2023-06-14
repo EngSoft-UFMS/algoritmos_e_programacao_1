@@ -26,16 +26,21 @@ def retornar_perguntas():
             'pergunta': 'Qual é a capital do Canadá?',
             'opcoes': ['Ottawa', 'Toronto', 'Montreal', 'Vancouver'],
             'resposta': 'Ottawa'
-        }
+        },
         {
             'pergunta': 'Qual é a capital do Mato Grosso do Sul?',
             'opcoes': ['Campo Grande', 'São Paulo', 'Rio de Janeiro', 'Três Lagos'],
             'resposta': 'Campo Grande'
-        }
+        },
         {
             'pergunta': 'Qual é a capital do Brasil?',
             'opcoes': ['Rio de Janeiro', 'Salvador', 'São Paulo', 'Brasília'],
             'resposta': 'Brasília'
+        },
+        {
+            'pergunta': 'Qual é a capital de São Paulo?',
+            'opcoes': ['Rio de Janeiro', 'Salvador', 'São Paulo', 'Brasília'],
+            'resposta': 'São Paulo'
         }
     ]
     return perguntas
@@ -57,6 +62,7 @@ def menu()-> int:
     print("1- Fácil")
     print("2- Médio")
     print("3- Difícil")
+    print("4- Sair")
     numero = int(input())
     return numero
 
