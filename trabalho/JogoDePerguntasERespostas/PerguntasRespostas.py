@@ -41,6 +41,16 @@ def retornar_perguntas():
             'pergunta': 'Qual é a capital de São Paulo?',
             'opcoes': ['Rio de Janeiro', 'Salvador', 'São Paulo', 'Brasília'],
             'resposta': 'São Paulo'
+        },
+        {
+            'pergunta': 'Qual é a maior montanha do mundo?',
+            'opcoes': ['Monte Everest', 'K2', 'Makalu', 'Cho Oyu'],
+            'resposta': 'Monte Everest'
+        },
+        {
+            'pergunta': 'Quem é o autor de Abaporu?',
+            'opcoes': ['Tarsila do Amaral', 'Candido Portinari', 'Anita Malfatti', 'Vicente do Rego'],
+            'resposta': 'Tarsila do Amaral'
         }
     ]
     return perguntas
