@@ -87,9 +87,9 @@ def retornar_perguntas():
             'categoria' : 'Artes'
         },
         {
-            'pergunta': 'Qual é o maior osso do corpo humano?',
-            'opcoes': ['Tíbia', 'Esterno', 'Rádio', 'Fêmur'],
-            'resposta': 'Fêmur'
+            'pergunta': 'Quem criou o modelo atômico conhecido como "Pudim de passas"?',
+            'opcoes': ['Dalton', 'Rutherford', 'Bohr', 'Thomson'],
+            'resposta': 'Thomson'
             'categoria' : 'Ciências'
         }
     ]
