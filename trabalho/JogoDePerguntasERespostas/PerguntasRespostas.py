@@ -33,8 +33,8 @@ def retornar_perguntas():
             'categoria' : 'Geografia'
         },
         {
-            'pergunta': 'Qual é a capital do Canadá?',
-            'opcoes': ['Ottawa', 'Toronto', 'Montreal', 'Vancouver'],
+            'pergunta': 'Qual é a capital do Argentina?',
+            'opcoes': ['Ottawa', 'Buenos Aires', 'Montreal', 'Vancouver'],
             'resposta': 'Ottawa'
             'categoria' : 'Geografia'
         },
