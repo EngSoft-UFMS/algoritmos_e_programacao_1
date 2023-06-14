@@ -84,8 +84,8 @@ def categoria()-> int:
     print("2- Artes")
     print("3- História")
     print("4- Ciência")
-    print("5- Entretenimento")
-    print("6- Esportes")
+    print("5- Esportes")
+    print("6- Entretenimento")
     print("7- Sair")
     opcao = int(input())
     return opcao
