@@ -92,6 +92,20 @@ def verificar_resposta(pergunta, resposta):
 # Função que contém as perguntas e inicia o jogo
 
 def jogar():
+    cont = menu()
+
+    if cont == 1:
+        pass
+
+    elif cont == 2:
+        pass
+
+    elif cont == 3:
+        pass
+
+    elif cont == 4:
+        pass
+    
     perguntas = carregar_perguntas()
     pontos = 0
 
@@ -109,5 +123,3 @@ def jogar():
     print(f'Fim de jogo! Você marcou {pontos} pontos de um total de {len(perguntas)}.')
     
 jogar()
-menu()
-
