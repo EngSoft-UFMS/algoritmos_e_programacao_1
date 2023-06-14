@@ -42,6 +42,16 @@ def retornar_perguntas():
             'opcoes': ['Rio de Janeiro', 'Salvador', 'São Paulo', 'Brasília'],
             'resposta': 'São Paulo'
         }
+        {
+            'pergunta': 'Quem pintou a obra O Grito?',
+            'opcoes': ['Michelangelo', 'Leonardo Da Vinci', 'Pablo Picasso', 'Edvard Munch'],
+            'resposta': 'Edvard Munch'
+        }
+        {
+            'pergunta': 'Qual artista considerado o pai do Cubismo?',
+            'opcoes': ['Pablo Picasso', 'Vincent van Gogh', 'Tarsila do Amaral', 'Vicente do Rego Monteiro'],
+            'resposta': 'Pablo Picasso'
+        }
     ]
     return perguntas
  
