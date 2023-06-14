@@ -76,20 +76,20 @@ def retornar_perguntas():
         }
     ]
     return perguntas
- 
+
 # Função para mostrar as opções de resposta e retornar a resposta do usuário
 def categoria()-> int:
     print("Escolha a categoria que você deseja responder:")
-    print("1- Geografia")
-    print("2- Artes")
-    print("3- História")
-    print("4- Ciência")
-    print("5- Entretenimento")
-    print("6- Esportes")
+    print("1- Esportes")
+    print("2- Geografia")
+    print("3- Ciência")
+    print("4- Entreterimento")
+    print("5- História")
+    print("6- Artes")
     print("7- Sair")
     opcao = int(input())
     return opcao
-
+    
 def fazer_pergunta(pergunta):
     print(pergunta['pergunta'])
     for i, opcao in enumerate(pergunta['opcoes']):
@@ -108,18 +108,6 @@ def menu()-> int:
     print("4- Sair")
     numero = int(input())
     return numero
-
-def categoria()-> int:
-    print("Escolha a categoria que você deseja responder:")
-    print("1- Esportes")
-    print("2- Geografia")
-    print("3- Ciência")
-    print("4- Entreterimento")
-    print("5- História")
-    print("6- Artes")
-    print("7- Sair")
-    opcao = int(input())
-    return opcao
 
 def verificar_resposta(pergunta, resposta):
     return pergunta['opcoes'][int(resposta) - 1] == pergunta['resposta']
