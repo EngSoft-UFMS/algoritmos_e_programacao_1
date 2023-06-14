@@ -9,6 +9,12 @@ def retornar_perguntas():
             'categoria' : 'Geografia'
         },
         {
+            'pergunta': 'Qual é a capital da Itália?',
+            'opcoes': ['Paris', 'Londres', 'Roma', 'Madri'],
+            'resposta': 'Roma'
+            'categoria' : 'Artes'
+        },
+        {
             'pergunta': 'Qual é o maior planeta do Sistema Solar?',
             'opcoes': ['Júpiter', 'Vênus', 'Saturno', 'Marte'],
             'resposta': 'Júpiter'
@@ -63,9 +69,9 @@ def retornar_perguntas():
             'categoria' : 'Artes'
         },
         {
-            'pergunta': 'Quem pintou a obra Noite estrelada?',
-            'opcoes': ['Michelangelo', 'Leonardo Da Vinci', 'Pablo Picasso', 'Vincent van Gogh'],
-            'resposta': 'Vincent van Gogh'
+            'pergunta': 'Quem pintou a obra A Criação de Adão?',
+            'opcoes': ['Michelangelo Buonarotti', 'Leonardo Da Vinci', 'Pablo Picasso', 'Edvard Munch'],
+            'resposta': 'Michelangelo Buonarotti'
             'categoria' : 'Artes'
         },
         {
