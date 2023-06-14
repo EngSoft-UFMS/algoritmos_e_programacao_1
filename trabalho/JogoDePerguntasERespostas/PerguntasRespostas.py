@@ -63,9 +63,9 @@ def retornar_perguntas():
             'categoria' : 'Artes'
         },
         {
-            'pergunta': 'Quem pintou a obra O Grito?',
-            'opcoes': ['Michelangelo', 'Leonardo Da Vinci', 'Pablo Picasso', 'Edvard Munch'],
-            'resposta': 'Edvard Munch'
+            'pergunta': 'Quem pintou a obra Noite estrelada?',
+            'opcoes': ['Michelangelo', 'Leonardo Da Vinci', 'Pablo Picasso', 'Vincent van Gogh'],
+            'resposta': 'Vincent van Gogh'
             'categoria' : 'Artes'
         },
         {
