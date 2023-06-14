@@ -55,3 +55,11 @@ def fazer_pergunta(pergunta):
 def verificar_resposta(pergunta, resposta):
     return pergunta['opcoes'][int(resposta) - 1] == pergunta['resposta']
 
+# Função que contém as perguntas e inicia o jogo
+
+def jogar():
+    perguntas = carregar_perguntas()
+    pontos = 0
+
+    print('Bem-vindo ao jogo de perguntas e respostas!')
+    print('Responda corretamente o maior número de perguntas para ganhar pontos.')
