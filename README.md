@@ -35,3 +35,4 @@ Exercícios do Beecrowd para serem implementadas no decorrer do semestre.
 ## Trabalho
 
 - Jogo de perguntas e Respostas(urgente)
+- Jogo da velha(urgente)
