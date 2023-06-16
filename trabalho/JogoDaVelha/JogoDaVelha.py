@@ -53,7 +53,7 @@ def jogar():
         # Verificar se houve empate
         if all(tabuleiro[i][j] != " " for i in range(3) for j in range(3)):
             exibir_tabuleiro(tabuleiro)
-            print("Draw!")
+            print("Empate!")
             break
 
         # Alternar jogador
