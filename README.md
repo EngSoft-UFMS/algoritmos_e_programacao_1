@@ -25,6 +25,7 @@ Exercícios do Beecrowd para serem implementadas no decorrer do semestre.
 
 - desafio Matrizes(pode esperar)
 - desafio Decodificar(pode esperar)
+- desafio Palíndromo(pode esperar)
 
 ## Provas
 
