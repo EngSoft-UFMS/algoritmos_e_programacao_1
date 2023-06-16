@@ -20,6 +20,7 @@ Exercícios do Beecrowd para serem implementadas no decorrer do semestre.
 - jogo do NIM(assim que possível);
 - xml(assim que possível);
 - jogo da Forca(assim que possível);
+- Criptografia de Senha(assim que possível);
 
 ## Desafios
 
