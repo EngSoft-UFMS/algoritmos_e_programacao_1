@@ -47,7 +47,9 @@ def jogar():
         # Verificar se houve vitória
         if verificar_vitoria(tabuleiro, jogador_atual):
             exibir_tabuleiro(tabuleiro)
-            print("Jogador", jogador_atual, "Venceu!")
+
+            print("O Participante", jogador_atual, "Venceu o jogo!")
+
             break
 
         # Verificar se houve empate
