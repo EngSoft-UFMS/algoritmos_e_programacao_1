@@ -141,17 +141,17 @@ def verificar_resposta(pergunta, resposta):
 def jogar():
     cont = menu()
 
-    if cont == 1:
-        pass
+    #if cont == 1: Ainda não implementando
+        #pass
 
-    elif cont == 2:
-        pass
+    #elif cont == 2:
+        #pass
 
-    elif cont == 3:
-        pass
+    #elif cont == 3:
+        #pass
 
-    elif cont == 4:
-        pass
+    #elif cont == 4:
+        #pass
     
 
     perguntas = retornar_perguntas()
