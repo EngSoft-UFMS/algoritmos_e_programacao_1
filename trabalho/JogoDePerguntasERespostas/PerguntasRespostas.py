@@ -115,8 +115,8 @@ def categoria()-> int:
     
 def fazer_pergunta(pergunta):
     print(pergunta['pergunta'])
-    for i, opcao in enumerate(pergunta['opcoes']):
-        print(f'{i+1}. {opcao}')
+    for i in range(len(pergunta['opcoes'])):
+        print(f'{i+1}. {pergunta["opcoes"][i]}')
 
     resposta = input('Digite o número da opção correta: ')
     return resposta
