@@ -12,7 +12,7 @@
 Exercícios do Beecrowd para serem implementadas no decorrer do semestre.
 - 1000, 1001, 1002,	1003,	1004,	1005,	1006,	1007,	1008,	1009,	1010,	1011,	1012,	1013, 1014,	1015,	1016,	1017,	1018,	1019,	1020,	1021, 1035,	1036,	1037(pouco urgente);
 - 1038, 1040, 1041, 1042, 1043, 1044, 1045, 1046,	1047,	1048,	1049,	1050,	1051,	1052,	1059,	1060,	1061,	1064,	1065,	1066,	1067,	1070,	1071,	1072,	1073(pouco urgente);
-- 1182, 1183,1184,1185,1186,1187,1188,1189,1190,1435,	1478,	1534,	1541,	1557,	1564,	1589,	1759,	1789,	1827,	1828,	1837,	1847,	1848,	1858,	1864, 3002, 1557(assim que possível).
+- 1182, 1183, 1184, 1185, 1186, 1187, 1188, 1189, 1190, 1435,	1478,	1534,	1541,	1557,	1564,	1589,	1759,	1789,	1827,	1828,	1837,	1847,	1848,	1858,	1864, 3002, 1557(assim que possível).
 
 
 ## Exercícios Avaliativos
@@ -23,8 +23,8 @@ Exercícios do Beecrowd para serem implementadas no decorrer do semestre.
 
 ## Desafios
 
-- desafios Matrizes(pode esperar)
-- desafios Decodificar(pode esperar)
+- desafio Matrizes(pode esperar)
+- desafio Decodificar(pode esperar)
 
 ## Provas
 
