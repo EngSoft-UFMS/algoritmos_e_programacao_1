@@ -2,7 +2,7 @@
 
 Bem-vindo ao repositório de desenvolvimento da disciplina de Algoritmos e Programação 1 da Universidade Federal de Mato Grosso do Sul (UFMS). Aqui você encontrará os artefatos gerados pelos membros da nossa equipe durante o decorrer da disciplina do curso de Engenharia de Software, desenvolvidos na linguagem de programação Python.
 
-Os principais artefatos que serão compartilhados são provas, trabalhos, exercícios avaliativos, exercícios extras, documentação e instruções:
+Os principais artefatos que serão compartilhados são resoluções e descrições de provas, trabalhos, exercícios avaliativos, exercícios extras, documentação e desafios.
 
 Acreditamos que esses artefatos serão úteis para auxiliar o aprendizado e a prática dos conceitos abordados na disciplina.
 
