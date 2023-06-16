@@ -5,96 +5,97 @@ def retornar_perguntas():
         {
             'pergunta': 'Qual é a capital da Espanha?',
             'opcoes': ['Paris', 'Londres', 'Roma', 'Madri'],
-            'resposta': 'Madri'
+            'resposta': 'Madri',
             'categoria' : 'Geografia'
         },
         {
             'pergunta': 'Qual é a capital da Itália?',
             'opcoes': ['Paris', 'Londres', 'Roma', 'Madri'],
-            'resposta': 'Roma'
+            'resposta': 'Roma',
             'categoria' : 'Artes'
         },
         {
             'pergunta': 'Qual é o maior planeta do Sistema Solar?',
             'opcoes': ['Júpiter', 'Vênus', 'Saturno', 'Marte'],
-            'resposta': 'Júpiter'
+            'resposta': 'Júpiter',
             'categoria' : 'Geografia'
         },
         {
             'pergunta': 'Quem pintou a Mona Lisa?',
             'opcoes': ['Leonardo da Vinci', 'Pablo Picasso', 'Vincent van Gogh', 'Michelangelo'],
-            'resposta': 'Leonardo da Vinci'
+            'resposta': 'Leonardo da Vinci',
             'categoria' : 'Artes'
         },
         {
             'pergunta': 'Qual é o rio mais longo do mundo?',
             'opcoes': ['Rio Amazonas', 'Rio Nilo', 'Rio Mississippi', 'Rio Yangtzé'],
-            'resposta': 'Rio Nilo'
+            'resposta': 'Rio Nilo',
             'categoria' : 'Geografia'
         },
         {
             'pergunta': 'Qual é a capital do Argentina?',
             'opcoes': ['Ottawa', 'Buenos Aires', 'Montreal', 'Vancouver'],
-            'resposta': 'Ottawa'
+            'resposta': 'Ottawa',
             'categoria' : 'Geografia'
         },
         {
             'pergunta': 'Qual é a capital do Japão?',
             'opcoes': ['Ottawa', 'Tokyo', 'Montreal', 'Vancouver'],
-            'resposta': 'Tokyo'
+            'resposta': 'Tokyo',
             'categoria' : 'Geografia'
         },
         {
             'pergunta': 'Qual é a capital do Mato Grosso do Sul?',
             'opcoes': ['Campo Grande', 'São Paulo', 'Rio de Janeiro', 'Três Lagos'],
-            'resposta': 'Campo Grande'
+            'resposta': 'Campo Grande',
             'categoria' : 'Geografia'
         },
         {
             'pergunta': 'Qual é a capital do Brasil?',
             'opcoes': ['Rio de Janeiro', 'Salvador', 'São Paulo', 'Brasília'],
-            'resposta': 'Brasília'
+            'resposta': 'Brasília',
             'categoria' : 'Geografia'
         },
         {
             'pergunta': 'Qual é a capital de São Paulo?',
             'opcoes': ['Rio de Janeiro', 'Salvador', 'São Paulo', 'Brasília'],
-            'resposta': 'São Paulo'
+            'resposta': 'São Paulo',
             'categoria' : 'Geografia'
         },
         {
             'pergunta': 'Qual é a maior montanha do mundo?',
             'opcoes': ['Monte Everest', 'K2', 'Makalu', 'Cho Oyu'],
-            'resposta': 'Monte Everest'
+            'resposta': 'Monte Everest',
             'categoria' : 'Geografia'
         },
         {
             'pergunta': 'Quem é o autor de Abaporu?',
             'opcoes': ['Tarsila do Amaral', 'Candido Portinari', 'Anita Malfatti', 'Vicente do Rego'],
-            'resposta': 'Tarsila do Amaral'
+            'resposta': 'Tarsila do Amaral',
             'categoria' : 'Artes'
         },
         {
             'pergunta': 'Quem pintou a obra A Criação de Adão?',
             'opcoes': ['Michelangelo Buonarotti', 'Leonardo Da Vinci', 'Pablo Picasso', 'Edvard Munch'],
-            'resposta': 'Michelangelo Buonarotti'
+            'resposta': 'Michelangelo Buonarotti',
             'categoria' : 'Artes'
         },
         {
             'pergunta': 'Qual artista considerado o pai do Cubismo?',
             'opcoes': ['Pablo Picasso', 'Vincent van Gogh', 'Tarsila do Amaral', 'Vicente do Rego Monteiro'],
-            'resposta': 'Pablo Picasso'
+            'resposta': 'Pablo Picasso',
             'categoria' : 'Artes'
         },
         {
             'pergunta': 'Quem criou o modelo atômico conhecido como "Pudim de passas"?',
             'opcoes': ['Dalton', 'Rutherford', 'Bohr', 'Thomson'],
-            'resposta': 'Thomson'
+            'resposta': 'Thomson',
+            'categoria' : 'Ciências'
         },
         {
             'pergunta': 'Qual é o menor osso do corpo humano?',
             'opcoes': ['Tíbia', 'Esterno', 'Rádio', 'Estribo'],
-            'resposta': 'Estribo'
+            'resposta': 'Estribo',
             'categoria' : 'Ciências'
         }
     ]
