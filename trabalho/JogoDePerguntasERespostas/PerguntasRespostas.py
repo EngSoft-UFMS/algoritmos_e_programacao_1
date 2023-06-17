@@ -141,8 +141,6 @@ def verificar_resposta(pergunta, resposta):
 def jogar():
     cont = menu()
 
-    
-   # Ainda não implementando
    # if cont == 1: 
    #     pass
 
@@ -153,8 +151,7 @@ def jogar():
    #     pass
 
    # elif cont == 4:
-   #     pass
-    
+   #     pass 
 
     perguntas = retornar_perguntas()
     pontos = 0
